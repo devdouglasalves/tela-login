@@ -1,0 +1,27 @@
+section {
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+div {
+    font:normal 11pt Arial;
+    color: black
+
+}
+input {
+    background-color: rgb(238, 236, 236);
+    width: 320px;
+    height: 35px;
+}
+input#button{
+    background-color: red;
+    color: white;
+    width: 320px;
+    height: 35px;
+    transition: background-color 2s ease; 
+}
+
+input#buttonNovo {
+    width: 320px;
+    height: 35px;
+}
